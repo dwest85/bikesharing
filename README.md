@@ -6,23 +6,23 @@
 # Results
 * The bike rental windows are busiest during the weekdays, between 7am - 9am and between 4pm - 7pm. I have coined these windows the breakfast and dinner rushes. This data gives us great information to work with while imrpoving the slow rental points during the day, while continuing to boost the peak times.
 
-![story1]()
+![story1](https://github.com/dwest85/bikesharing/blob/main/markdownpics/story1.PNG)
 
 * The high rental times correlate mainly with male bike riders. This information could help drive our marketing focus when we go live in Des Moines. 
 
-![story2]()
+![story2](https://github.com/dwest85/bikesharing/blob/main/markdownpics/story2.PNG)
 
 * This information shows not only are the peak times mainly male riders, but most of those riders are subscribers, probably using the platform as some type of commute. This is great information to base our similar platform off of in Des Moines, as both locations are large city types.
 
-![story3]()
+![story3](https://github.com/dwest85/bikesharing/blob/main/markdownpics/story3.PNG)
 
 * The typical bike trip duration is within the first 60 minutes of the start time. This information also strengthens the conversation that most bike renters are using the platform for a quick commute, versus a long sightseeing trip. This will help us market better towards our focused audience. 
 
-![story4]()
+![story4](https://github.com/dwest85/bikesharing/blob/main/markdownpics/story4.PNG)
 
 * This is another visualization strengthen the conversation that most commuters using the platform are male riders.
 
-![story5]()
+![story5](https://github.com/dwest85/bikesharing/blob/main/markdownpics/story5.PNG)
 
 # Summary
 * The summary of this analysis is to target an audience looking for a commuting platform. This would be best executed with attractive offers for our subscriber clientele. 
